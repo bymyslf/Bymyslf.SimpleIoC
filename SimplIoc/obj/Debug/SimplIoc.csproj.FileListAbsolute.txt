@@ -1,0 +1,4 @@
+B:\MedFinderProject\MedFinder\SimplIoc\SimplIoc\bin\Debug\SimplIoc.dll
+B:\MedFinderProject\MedFinder\SimplIoc\SimplIoc\bin\Debug\SimplIoc.pdb
+B:\MedFinderProject\MedFinder\SimplIoc\SimplIoc\obj\Debug\SimplIoc.dll
+B:\MedFinderProject\MedFinder\SimplIoc\SimplIoc\obj\Debug\SimplIoc.pdb
