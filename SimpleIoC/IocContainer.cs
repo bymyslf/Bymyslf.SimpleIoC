@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Configuration;
-using SimplIoc.ConfigFile;
+using SimpleIoC.ConfigFile;
 
-namespace SimplIoc
+namespace SimpleIoC
 {
     public class IocContainer : IIocContainer
     {

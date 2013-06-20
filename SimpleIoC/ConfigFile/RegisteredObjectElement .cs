@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace SimplIoc.ConfigFile
+namespace SimpleIoC.ConfigFile
 {
     public sealed class RegisteredObjectElement : ConfigurationElement
     {

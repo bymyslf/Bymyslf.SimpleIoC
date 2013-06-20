@@ -1,18 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplIoc", "SimplIoc\SimplIoc.csproj", "{09586F23-C5A3-4FE7-AD0F-4CA461E574F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIoC", "SimplIoc\SimpleIoC.csproj", "{09586F23-C5A3-4FE7-AD0F-4CA461E574F6}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://augustus.ismai.pt:8080/tfs/sis3_2012
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SimplIoc\\SimplIoc.csproj
-		SccProjectName1 = SimplIoc
-		SccLocalPath1 = SimplIoc
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
